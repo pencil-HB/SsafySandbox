@@ -30,7 +30,7 @@
 
 - ERD
 
-  - ![ERD_IMG]() 각자 ERD 짜서 이미지 넣기
+  - ![ERD_IMG](https://github.com/pencil-HB/SsafySandbox/blob/Ready/assets/img/todo_erd.png?raw=true) 각자 ERD 짜서 이미지 넣기
 
 - CRUD
 
