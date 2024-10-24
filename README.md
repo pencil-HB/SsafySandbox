@@ -46,3 +46,4 @@
   - 코드 리뷰를 할 때는 궁금한 점 자유롭게 묻고 상대방에게 그렇게 짠 이유를 묻기(나도 항상 왜 이렇게 짰는 지 생각하면서 코딩하기)
   - commit convention [노션](https://bow-snail-89d.notion.site/Convention-8763cd0df1174421be5fcaae6090444e)
   - formatter 세팅 [레포](https://github.com/naver/hackday-conventions-java/tree/master) 저장 시 포맷 할거면 바뀐 부분만 적용 할 수 있음 참고(Intellij 유료 버전만 가능...)
+  - CORS
